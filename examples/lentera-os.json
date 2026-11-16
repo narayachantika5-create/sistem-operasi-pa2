@@ -1,0 +1,15 @@
+{
+  "team": "Tim Lentera",
+  "mark": "LT",
+  "audience": "tim pengelola dokumen kegiatan",
+  "mission": "Dokumen kegiatan yang mudah ditemukan",
+  "background": "#F5ECD9",
+  "foreground": "#24211D",
+  "accent": "#8E4B20",
+  "pattern": "ribbon",
+  "actions": [
+    "Pilih koleksi dokumen",
+    "Periksa hasil arsip",
+    "Baca panduan penyimpanan"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "team": "Tim Aksara",
+  "mark": "AX",
+  "audience": "mahasiswa yang belajar tanpa koneksi internet",
+  "mission": "Materi lokal dan ruang belajar yang tertata",
+  "background": "#0E1830",
+  "foreground": "#F3F6FC",
+  "accent": "#78DCC7",
+  "pattern": "orbit",
+  "actions": ["Buka materi lokal", "Siapkan ruang belajar", "Lihat panduan tim"]
+}

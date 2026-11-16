@@ -1,0 +1,15 @@
+{
+  "team": "Tim Forge",
+  "mark": "FG",
+  "audience": "mahasiswa praktikum pemrograman",
+  "mission": "Workspace siap untuk latihan pemrograman",
+  "background": "#171C25",
+  "foreground": "#F4F7FC",
+  "accent": "#FFBC70",
+  "pattern": "grid",
+  "actions": [
+    "Buat workspace",
+    "Periksa compiler",
+    "Baca panduan latihan"
+  ]
+}

@@ -1,0 +1,17 @@
+# Paket dari repository Ubuntu resmi. Tinjau sebelum digabung ke custom.list.
+xfce4
+xfce4-terminal
+thunar
+xfconf
+xdg-utils
+lightdm
+lightdm-gtk-greeter
+greybird-gtk-theme
+papirus-icon-theme
+zenity
+python3
+build-essential
+ufw
+plymouth-themes
+plymouth-label
+# Inkscape diperlukan pada VM pembuatan aset; tidak wajib pada image final.

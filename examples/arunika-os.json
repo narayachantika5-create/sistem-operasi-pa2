@@ -1,0 +1,15 @@
+{
+  "team": "Tim Arunika",
+  "mark": "AR",
+  "audience": "tim praktikum berbasis VM",
+  "mission": "Periksa kesiapan sebelum memulai praktikum",
+  "background": "#251832",
+  "foreground": "#F8F3FF",
+  "accent": "#C8B4FF",
+  "pattern": "orbit",
+  "actions": [
+    "Periksa kesiapan lab",
+    "Lihat ringkasan resource",
+    "Baca panduan pemulihan"
+  ]
+}

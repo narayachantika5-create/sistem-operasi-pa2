@@ -1,0 +1,11 @@
+{
+  "profile_revision": "1",
+  "gtk_theme": "Greybird-dark",
+  "icon_theme": "Papirus-Dark",
+  "font": "Sans 10",
+  "terminal_font": "Monospace 11",
+  "top_panel_size": 32,
+  "dock_size": 44,
+  "compositing": false,
+  "first_login_welcome": true
+}
