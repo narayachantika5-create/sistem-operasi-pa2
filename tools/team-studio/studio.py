@@ -97,10 +97,10 @@ def wallpaper(config, style):
             f'<rect width="1920" height="1080" fill="{style["background"]}"/>'
             + pattern_svg(style)
             + f'<g font-family="sans-serif" fill="{style["foreground"]}">'
-            f'<text x="180" y="380" font-size="30" letter-spacing="6">{e(style["team"].upper())}</text>'
-            f'<text x="180" y="510" font-size="94" font-weight="bold">{e(config["OS_NAME"])}</text>'
-            f'<text x="180" y="580" font-size="27">{e(style["mission"])}</text>'
-            f'<text x="180" y="850" font-size="22">{e(config["OS_VERSION"])} / {e(config["BUILD_CHANNEL"])}</text></g></svg>')
+            f'<text x="300" y="380" font-size="30" letter-spacing="6">{e(style["team"].upper())}</text>'
+            f'<text x="300" y="510" font-size="94" font-weight="bold">{e(config["OS_NAME"])}</text>'
+            f'<text x="300" y="580" font-size="27">{e(style["mission"])}</text>'
+            f'<text x="300" y="850" font-size="22">{e(config["OS_VERSION"])} / {e(config["BUILD_CHANNEL"])}</text></g></svg>')
 
 
 def logo(style):
